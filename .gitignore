@@ -18,6 +18,7 @@ test.txt
 
 # production
 /build
+/.deploy/
 
 # misc
 .DS_Store
